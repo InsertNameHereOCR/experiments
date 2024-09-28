@@ -2,4 +2,4 @@
 
 .venv/
 
-output_images_handwritten pipeline
+output_images_handwritten_pipeline/
